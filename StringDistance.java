@@ -1,4 +1,5 @@
 // it give presentation error
+// GOOD STRING
 import java.util.Arrays;
 import java.util.Scanner;
 public class StringDistance {
